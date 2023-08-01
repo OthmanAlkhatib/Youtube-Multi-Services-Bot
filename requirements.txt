@@ -1,0 +1,5 @@
+python-telegram-bot~=13.11
+requests~=2.25.1
+telethon~=1.24.0
+regex
+youtube-transcript-api
